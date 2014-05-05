@@ -1,0 +1,7 @@
+{
+  "id": "roshan",
+  "ssh_keys": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC+l8Jx5vQ8P5Ceo+TIlXBLSKS0OhhTN1/dtNsjBZbi+IM9ayb0PCSJfjaXfq6esvSkZoJZzdbsjxfemYzY5MOdfBsjMfLEtxh0WcSDoIfXyTNjbh84C+3QLQjAgLks0a5mPEnbZOr1d5JwspNgntO9fI5jGHWBOnEu4cuvU23A4zfN4J6lgV6U4PElnZ4OhJfiYqGq3yg0sS/3xvfhdaSTuK7Aw1TQHwPQVl+yBncQKphltM5AgPj4ZBfmtNC7skSuoMtjc7AJeg6mvYs6XnnJfUUQPshe5uiX3SEVrUI7XdIHL/H6mGKeTpYLC+zZ25V/jRSnEtDKxgzlhjRhiMpr roshan@QT-LP052",
+  "groups": ["sysadmin", "dba", "devops"],
+  "uid": 2001,
+  "shell": "\/bin\/bash"
+}
